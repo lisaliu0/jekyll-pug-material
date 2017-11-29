@@ -2,7 +2,7 @@
 title: uwalk
 timezone: UTC
 collections:
-  posts:4r4reeqedfdeffrfeferfrfre
+  posts:
     title: Posts
     output: true
   uploads:
