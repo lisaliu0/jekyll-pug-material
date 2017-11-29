@@ -12,4 +12,4 @@ source: src
 destination: dist
 permalink: "/:categories/:title"
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-dinky
